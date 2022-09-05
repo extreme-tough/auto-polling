@@ -1,0 +1,23 @@
+Line 159: Class MSComDlg.CommonDialog of control CommonDialog1 was not a loaded control class.
+Line 362: Class SHDocVwCtl.WebBrowser of control WebBrowser1 was not a loaded control class.
+Line 162: The property name _ExtentX in CommonDialog1 is invalid.
+Line 163: The property name _ExtentY in CommonDialog1 is invalid.
+Line 164: The property name _Version in CommonDialog1 is invalid.
+Line 368: The property name ExtentX in WebBrowser1 is invalid.
+Line 369: The property name ExtentY in WebBrowser1 is invalid.
+Line 370: The property name ViewMode in WebBrowser1 is invalid.
+Line 371: The property name Offline in WebBrowser1 is invalid.
+Line 372: The property name Silent in WebBrowser1 is invalid.
+Line 373: The property name RegisterAsBrowser in WebBrowser1 is invalid.
+Line 374: The property name RegisterAsDropTarget in WebBrowser1 is invalid.
+Line 375: The property name AutoArrange in WebBrowser1 is invalid.
+Line 376: The property name NoClientEdge in WebBrowser1 is invalid.
+Line 377: The property name AlignLeft in WebBrowser1 is invalid.
+Line 378: The property name NoWebView in WebBrowser1 is invalid.
+Line 379: The property name HideFileNames in WebBrowser1 is invalid.
+Line 380: The property name SingleClick in WebBrowser1 is invalid.
+Line 381: The property name SingleSelection in WebBrowser1 is invalid.
+Line 382: The property name NoFolders in WebBrowser1 is invalid.
+Line 383: The property name Transparent in WebBrowser1 is invalid.
+Line 384: The property name ViewID in WebBrowser1 is invalid.
+Line 385: The property name Location in WebBrowser1 is invalid.
